@@ -1,2 +1,0 @@
-# html_test
-this is repo to put my projects
