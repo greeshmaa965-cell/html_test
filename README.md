@@ -1,13 +1,17 @@
-# HTML Practice
+# HTML Practice Repository
 
-This repository marks the beginning of my web development journey.
-I have practiced HTML basics by following a complete tutorial.
+This repository contains my HTML practice files.
+I created separate files to understand each HTML tag clearly.
 
-## What I learned
+## Topics Covered
 - Basic HTML structure
 - Headings and paragraphs
-- Lists and tables
-- Forms
-- Links and images
+- Text formatting tags
+- Links and navigation
+- Images and iframes
+- Tables (caption, colspan)
+- Forms (input, label, date)
+- Semantic tags (header, footer, article, aside)
 
-This is my first GitHub repository.
+This is my first GitHub repository and marks the start of my
+web development journey.
